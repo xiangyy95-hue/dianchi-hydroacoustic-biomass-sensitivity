@@ -1,0 +1,16 @@
+code,species,family,feeding_type
+CER,Cultrichthys erythropterus,Cyprinidae,Carnivore
+CCA,Cyprinus carpio,Cyprinidae,Omnivore
+PPA,Pseudorasbora parva,Cyprinidae,Omnivore
+AYU,Acrossocheilus yunnanensis,Cyprinidae,Omnivore
+ANO,Aristichthys nobilis,Cyprinidae,Filter-feeder
+AAL,Anabarilius alburnops,Cyprinidae,Planktivore
+TSW,Toxabramis swinhonis,Cyprinidae,Planktivore
+HMO,Hypophthalmichthys molitrix,Cyprinidae,Filter-feeder
+CAU,Carassius auratus,Cyprinidae,Omnivore
+PFU,Pelteobagrus fulvidraco,Bagridae,Carnivore
+RGI,Rhinogobius giurinus,Gobiidae,Carnivore
+PDA,Paramisgurnus dabryanus,Cobitidae,Omnivore
+NTA,Neosalanx taihuensis,Salangidae,Planktivore
+HIN,Hyporhamphus intermedius,Hemiramphidae,Omnivore
+HOL,Hypomesus olidus,Osmeridae,Planktivore
