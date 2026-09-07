@@ -84,11 +84,9 @@ The code and data are publicly available in this GitHub repository:
 
 <https://github.com/xiangyy95-hue/dianchi-hydroacoustic-biomass-sensitivity>
 
-A permanent archival version has been prepared in Zenodo under the reserved DOI:
+A permanent archival version of this project is available from Zenodo:
 
 <https://doi.org/10.5281/zenodo.22476648>
-
-The DOI will become active when the Zenodo record is published.
 
 ## License and contact
 
