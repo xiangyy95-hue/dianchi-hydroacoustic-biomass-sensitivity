@@ -1,6 +1,6 @@
-# Dianchi hydroacoustic biomass sensitivity
+# Anonymous review materials
 
-Data and R code supporting the manuscript **“Sensitivity of hydroacoustic fish-biomass estimates to target-strength and length–weight conversions in Dianchi Lake, China”**.
+Data and R code supporting the submitted manuscript.
 
 The analysis evaluates how alternative target-strength-to-length (TS–L) equations and length–weight relationships (LWRs) affect hydroacoustic estimates of fish biomass in Dianchi Lake, China. The repository contains the input data and complete R script needed to reproduce the analyses, tables and figures reported in the manuscript.
 
@@ -78,18 +78,8 @@ A successful run should report or reproduce:
 
 Small differences in MCMC summaries can occur if package versions or random-number generators differ. The deterministic tables and seeded bootstrap results should match the verified outputs.
 
-## Data and code availability
+## Availability during double-anonymous peer review
 
-The code and data are publicly available in this GitHub repository:
+This package is an anonymized review copy containing all data and R code needed to reproduce the analyses, tables and figures reported in the submitted manuscript. Author names, contact details, repository-account identifiers and links to the identified archival record have been withheld for double-anonymous peer review.
 
-<https://github.com/xiangyy95-hue/dianchi-hydroacoustic-biomass-sensitivity>
-
-A permanent archival version of this project is available from Zenodo:
-
-<https://doi.org/10.5281/zenodo.22476648>
-
-## License and contact
-
-The deposited data and code are available under the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0).
-
-Correspondence may be directed to Chao Guo (`guochao@ihb.ac.cn`) or Wei Li (`liwei@ihb.ac.cn`).
+The permanent public repository, version-specific archive, full creator metadata, licence and citation information will be disclosed after peer review.
